@@ -1,0 +1,9 @@
+/* Log out confirmation text */
+"Are you sure you want to disconnect ?" = "Êtes-vous sur de vouloir vous déconnecter ?";
+
+/* Log out action text */
+"Cancel" = "Annuler";
+
+/* Log out action text */
+"Sign out" = "Déconnexion";
+

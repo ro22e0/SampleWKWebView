@@ -1,0 +1,21 @@
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "EbZ-VO-O6i"; */
+"EbZ-VO-O6i.text" = "Bienvenue";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "FRd-0N-2Qj"; */
+"FRd-0N-2Qj.normalTitle" = "Connexion";
+
+/* Class = "UILabel"; text = "Enter your username and your password"; ObjectID = "H0j-xj-eIc"; */
+"H0j-xj-eIc.text" = "Entrez votre nom d'utilisateur et votre mot de passe";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LEb-oF-8oh"; */
+"LEb-oF-8oh.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "VCs-1N-EM5"; */
+"VCs-1N-EM5.title" = "Accueil";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "ige-TF-bEh"; */
+"ige-TF-bEh.placeholder" = "mot de passe";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "x6n-St-Ftn"; */
+"x6n-St-Ftn.placeholder" = "nom d'utilisateur";
+
